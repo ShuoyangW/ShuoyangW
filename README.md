@@ -1,5 +1,5 @@
 # Shuoyang Wang
-This page is written to objectively reflect some of my experience. For further information, please have a look at my [CV](https://drive.google.com/file/d/1iY9-v6MDgDBPYnuiskqI1on-h3qt097D/view?usp=share_link) or visit my Linkedin profile at "www.linkedin.com/in/shuoyangwang". (Update: January 10, 2024)
+This page is written to objectively reflect some of my experience. For further information, please have a look at my [CV](https://drive.google.com/file/d/1iY9-v6MDgDBPYnuiskqI1on-h3qt097D/view?usp=share_link) or visit my Linkedin profile at [link](www.linkedin.com/in/shuoyangwang). (Update: January 10, 2024)
 
 ## Contact Information
 A.N. Bourns Science Building (ABB) 267, McMaster University, Hamilton, ON, Canada, L8S 4L8 
