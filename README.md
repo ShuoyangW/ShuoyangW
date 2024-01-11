@@ -41,7 +41,7 @@ Shuoyang Wang is employed as a RA for several educational course development pro
 > January 2023 - Present 
 * Area: Education (Chemistry)
 * Role: Colaborator, Employee
-* Supervisor: Dr. Sharonna Greenberg
+* Supervisor: Dr. Sharonna Greenberg (McMaster)
 * Description: Develop ChemFAST online question bank for introductory chemistry courses CHEM 1A03, CHEM 1AA3.
 
 ## Projects (Finished)
@@ -49,14 +49,14 @@ Shuoyang Wang is employed as a RA for several educational course development pro
 > January 2023 - August 2023
 * Area: Education (Mathematics)
 * Role: Developer & Instructor, Employee
-* Supervisor: Dr. Caroline Junkins 
+* Supervisor: Dr. Caroline Junkins (McMaster)
 * Description: Develop and teach 2023 MacPRIME (McMaster Peer-Run Inclusive Math Experience) program to make incoming math & stats students have better 1st year math-learning experience. 
 
 ### CHEM 2A03 Lab Report Videos (Course Development)
 > May 2023 - August 2023
 * Area: Education (Chemistry)
 * Role: Colaborator, Employee
-* Supervisor: Dr. Lydia Chen
+* Supervisor: Dr. Lydia Chen (McMaster)
 * Description: Create Post-lab videos to help students to learn the statistical methods to analyze lab data for analytical chemistry course at McMaster Univeristy. 
 
 <!--
