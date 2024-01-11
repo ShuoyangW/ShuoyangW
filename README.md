@@ -15,12 +15,12 @@ Level 3 (concurrent degree seeking)
 
 ## Positions
 ### Teaching Assistant (TA)
-Shuoyang Wang is employed as an undergraduate TA for the year of 2023-2024. 
-* (2023 Fall) TA for second year Differential Equations class MATH 2Z03 for engineering students at McMaster University.
-* (2024 Winter) TA for first year Calculus II class MATH 1XX3 at McMaster University. 
+Shuoyang Wang is employed as an undergraduate TA in Department of Mathematics and Statistics at McMaster University. 
+* (2023 Fall) TA for second year Differential Equations class MATH 2Z03 for engineering students.
+* (2024 Winter) TA for first year Calculus II class MATH 1XX3. 
 
 ### Research Assistant (RA)
-Shuoyang Wang is employed as a RA for several educational course development projects across Department of Mathematics & Statistics and Department of Chemistry & Chemical Biology. Please see the Projects below for details. 
+Shuoyang Wang is employed as a RA for several educational course development projects across Department of Mathematics & Statistics and Department of Chemistry & Chemical Biology  at McMaster University. Please see the Projects below for details. 
 
 ## Projects (In-Progress)
 ### Mean Field Gradient-based Optimization Algorithm
